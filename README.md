@@ -18,7 +18,7 @@ Senior full stack engineer with 11 years of experience shipping production softw
 
 I work best in small, high-ownership teams where engineers drive decisions. I've taken features from architecture through to production, led technical decisions, and consistently shipped across the full stack without handing off between layers.
 
-Looking for **senior full stack** or **founding engineer** roles at ambitious startups.
+Looking for **senior full stack** or **founding engineer** roles — startups, scale-ups, and established product teams.
 
 ---
 
@@ -86,7 +86,7 @@ Ongoing contributions to React and Node.js ecosystem libraries — bug fixes, Ty
 
 ## Get in Touch
 
-I'm open to senior and founding engineer roles at startups. Happy to talk through what you're building.
+I'm open to senior full stack and founding engineer roles across startups, scale-ups, and established product companies. Happy to talk through what you're building.
 
 - [linkedin.com/in/sajid-mohammed](https://linkedin.com/in/sajid-mohammed)
 - [sajid.dev@outlook.com](mailto:sajid.dev@outlook.com)
