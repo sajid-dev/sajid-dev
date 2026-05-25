@@ -90,4 +90,4 @@ I'm open to senior full stack and founding engineer roles across startups, scale
 
 - [linkedin.com/in/sajid-mohammed-dev](https://www.linkedin.com/in/sajid-mohammed-dev/)
 - [sajidmohammed.com@outlook.com](mailto:sajidmohammed.com@outlook.com)
-- [sajidmohammed.com](https://www.sajidmohammed.com)
+- [sajidmohammed.com](https://sajidmohammed.com)
