@@ -4,7 +4,7 @@
 
 **Full Stack Engineer &nbsp;·&nbsp; 11 Years**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sajid-mohammed)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sajid-mohammed-dev/)&nbsp;
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sajid.dev@outlook.com)&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white)](https://sajid.dev)
 
@@ -88,6 +88,6 @@ Ongoing contributions to React and Node.js ecosystem libraries — bug fixes, Ty
 
 I'm open to senior full stack and founding engineer roles across startups, scale-ups, and established product companies. Happy to talk through what you're building.
 
-- [linkedin.com/in/sajid-mohammed](https://linkedin.com/in/sajid-mohammed)
+- [linkedin.com/in/sajid-mohammed-dev](https://www.linkedin.com/in/sajid-mohammed-dev/)
 - [sajid.dev@outlook.com](mailto:sajid.dev@outlook.com)
 - [sajid.dev](https://sajid.dev)
