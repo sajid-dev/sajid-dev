@@ -77,8 +77,8 @@ Ongoing contributions to React and Node.js ecosystem libraries — bug fixes, Ty
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sajid-dev&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&hide_rank=false" />&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajid-dev&layout=compact&theme=default&hide_border=true&langs_count=6" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sajid-dev&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&card_width=400" />&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajid-dev&layout=compact&theme=transparent&hide_border=true&langs_count=6&card_width=300" />
 
 </div>
 
